@@ -1,0 +1,16 @@
+AUTHOR=Pieter Hintjens
+TITLE=The Edge Net
+SUBTITLE=A First Design Proposal
+COPYRIGHT=Copyright © 2013 Pieter Hintjens
+LICENSE=Free to share and remix under CC-BY-SA-3.0
+COMMENT=Thanks for tweeting about it -- #edgenet
+
+#   Filename base for all input/output
+FILENAME=edgenet
+
+#   Tracker token and website for Google Analytics
+GATRACKER=UA-623476-18
+GAWEBSITE=cultureandempire.com
+
+#   GitHub integration
+GITNAME=https://github.com/cultureandempire/cultureandempire.github.io
